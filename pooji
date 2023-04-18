@@ -1,0 +1,14 @@
+printf('HELLOWORLD');
+*_*_*_*_*_*_*_*_*_*_*_*_*_
+int a=5,b=3;in
+printf("%d",a+b)
+-*_*_*_*_*_*_*_*_*_*_*_*_*
+int a=8,b=3;
+avg=(a+b)%2;
+printf("%d",avg)
+_*_*_*_*_*_*_*_*_*_*_*_*_*_
+int a=8,b=3;
+sum=(a+b);
+printf("%d",sum)
+_*_*_*_*_*_*_*_*_*_*_*_*_*_
+printf('HELLOWORLD');
